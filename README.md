@@ -4,6 +4,8 @@ A menu-driven banking simulation developed in Python for ICT100 at Murdoch Unive
 
 The application supports savings and credit accounts, basic transactions and monthly account updates. It demonstrates functions, conditional logic, loops, input validation and exception handling.
 
+[View or download my python assignment](PASTE_FILE_URL_HERE)
+
 ## Features
 
 - Create a savings or credit account.
